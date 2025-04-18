@@ -6,6 +6,6 @@
   i love <a href="https://github.com/kogasacord" target="_blank" data-wpel-link="external" rel="external noopener noreferrer">
     <img alt="Kogasa" src="https://custom-icon-badges.demolab.com/badge/kogasa-tatara-03989e?style=flat&logo=kogasa">
   </a>
+  
+  twoleaflotus member
 </div>
-
-twoleaflotus member
